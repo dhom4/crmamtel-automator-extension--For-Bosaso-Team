@@ -59,7 +59,6 @@ This tool is a **Chrome extension** that adds easy-to-use buttons to your browse
 | **Export Report (Detailed)** | Downloads full activation log with dates, ICCIDs, and MSISDNs |
 | **Export Report (CSV)** | Exports to Excel-friendly format |
 | **Export Report (Simple)** | Shows daily activation counts |
-| **Clear All Logs** | Deletes local history (⚠️ cannot be undone!) |
 
 > 📁 Reports are saved automatically to your **Downloads** folder.
 
@@ -68,20 +67,12 @@ This tool is a **Chrome extension** that adds easy-to-use buttons to your browse
 ## ⚠️ Important Notes
 
 - **Only works on the official Amtel CRM site**
-- **Always verify** auto-filled data before final submission
 - **ICCID must be 7 digits** — no spaces, letters, or full numbers
 - Your activation history is stored **only on your computer** (not shared)
 - If buttons don’t work, refresh the CRM page and try again
-
----
-
-## ❓ Need Help?
-
 - Make sure you’re on the correct CRM page (Page 1 or Page 2)
-- Check that the extension is **pinned and enabled**
-- Ensure pop-ups are allowed for the CRM site
-- Contact your team lead if the CRM layout has changed
 
 ---
+
 
 **You’re ready!** Just open the CRM, click the extension buttons, and register subscribers in seconds.
