@@ -8,7 +8,7 @@ This tool is a **Chrome extension** that adds easy-to-use buttons to your browse
 
 ## 🛠️ How to Install
 
-1. Download form github: click *Code* than *Download ZIP* than extract the file
+1. Download form github: click **Code** than **Download ZIP** than extract the file
 2. Open **Google Chrome**
 3. Go to `chrome://extensions`
 4. Turn on **"Developer mode"** (top-right toggle)
