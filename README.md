@@ -17,7 +17,7 @@ This tool is a **Chrome extension** that adds easy-to-use buttons to your browse
 
 ---
 
-## 🎯 How to Use (Step-by-Step)
+## How to Use (Step-by-Step)
 
 ### 🔹 Step 1: Fill Page 1 (Personal Info)
 - Navigate to **Page 1** of the subscriber form in CRM
@@ -81,4 +81,4 @@ This tool is a **Chrome extension** that adds easy-to-use buttons to your browse
 
 ---
 
-✅ **You’re ready!** Just open the CRM, click the extension buttons, and register subscribers in seconds.
+**You’re ready!** Just open the CRM, click the extension buttons, and register subscribers in seconds.
